@@ -1,0 +1,29 @@
+_repo: The-House-Round-the-Corner_39432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2012-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mystery fiction'
+title: The House 'Round the Corner
+url: http://www.gutenberg.org/ebooks/39432
